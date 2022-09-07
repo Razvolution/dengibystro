@@ -1,0 +1,17 @@
+﻿<Window x:Class="popov_dengibystro.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:popov_dengibystro"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="150"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Grid Grid.Column="0" Background="Aqua"></Grid>
+        <Image x:Name="dosk_foto1_39404_jpg" Margin="155,4,-641,-2" Source="dosk_foto1_39404.jpg" Stretch="Fill"/>
+
+    </Grid>
+</Window> 

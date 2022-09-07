@@ -1,0 +1,15 @@
+C:\Users\Администратор\source\repos\popov dengibystro\popov dengibystro\bin\Debug\popov dengibystro.exe.config
+C:\Users\Администратор\source\repos\popov dengibystro\popov dengibystro\bin\Debug\popov dengibystro.exe
+C:\Users\Администратор\source\repos\popov dengibystro\popov dengibystro\bin\Debug\popov dengibystro.pdb
+C:\Users\Администратор\source\repos\popov dengibystro\popov dengibystro\obj\Debug\popov dengibystro.csproj.AssemblyReference.cache
+C:\Users\Администратор\source\repos\popov dengibystro\popov dengibystro\obj\Debug\MainWindow.g.cs
+C:\Users\Администратор\source\repos\popov dengibystro\popov dengibystro\obj\Debug\App.g.cs
+C:\Users\Администратор\source\repos\popov dengibystro\popov dengibystro\obj\Debug\popov dengibystro_MarkupCompile.cache
+C:\Users\Администратор\source\repos\popov dengibystro\popov dengibystro\obj\Debug\popov dengibystro_MarkupCompile.lref
+C:\Users\Администратор\source\repos\popov dengibystro\popov dengibystro\obj\Debug\MainWindow.baml
+C:\Users\Администратор\source\repos\popov dengibystro\popov dengibystro\obj\Debug\popov dengibystro.g.resources
+C:\Users\Администратор\source\repos\popov dengibystro\popov dengibystro\obj\Debug\popov_dengibystro.Properties.Resources.resources
+C:\Users\Администратор\source\repos\popov dengibystro\popov dengibystro\obj\Debug\popov dengibystro.csproj.GenerateResource.cache
+C:\Users\Администратор\source\repos\popov dengibystro\popov dengibystro\obj\Debug\popov dengibystro.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\source\repos\popov dengibystro\popov dengibystro\obj\Debug\popov dengibystro.exe
+C:\Users\Администратор\source\repos\popov dengibystro\popov dengibystro\obj\Debug\popov dengibystro.pdb
