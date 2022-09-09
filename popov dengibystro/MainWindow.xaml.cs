@@ -24,5 +24,10 @@ namespace popov_dengibystro
         {
             InitializeComponent();
         }
+
+        private void open()
+        {
+
+        }
     }
 }
