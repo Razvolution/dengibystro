@@ -25,7 +25,11 @@ namespace popov_dengibystro
             InitializeComponent();
         }
 
-        private void open()
+      
+      
+      
+
+        private void btn_click(object sender, RoutedEventArgs e)
         {
 
         }
