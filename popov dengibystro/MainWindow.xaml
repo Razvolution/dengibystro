@@ -19,14 +19,20 @@
             <RowDefinition Height="*">
             </RowDefinition>
         </Grid.RowDefinitions>
-        <Label FontSize="40" Margin="10" FontWeight="SemiBold" Content="Text"></Label>
+            <Label FontSize="40" Margin="10" FontWeight="SemiBold" Content="Dengibystro"></Label>
         <Grid Background="Green" Height="15" VerticalAlignment="Bottom" Margin="10"></Grid>
         <Frame Grid.Row="1" x:Name="MainFrame"></Frame>
     </Grid>
-    <Grid Grid.Column="0" Background="Aqua"></Grid>
+    <Grid Grid.Column="0" Background="green"></Grid>
     <Image  Grid.Column="0" Source="dosk_foto1_39404.jpg" VerticalAlignment="Top"/>
-    <TextBlock> dengibystro </TextBlock>
-    <Button Click="btn_click" Height="25" Background="White">это кнопка</Button>
+    
+        <StackPanel VerticalAlignment="Center">
+            <Button Click="btn_click" Height="25" Background="White">Получить деньги</Button>
+            <Button Click="btn_click2" Height="25" Background="White">Техника безопасности</Button>
+            <Button Click="btn_click3" Height="25" Background="White">Информация о нас</Button>
+        </StackPanel>
+       
+        
 
 
 

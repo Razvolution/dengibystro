@@ -23,6 +23,7 @@ namespace popov_dengibystro
         public MainWindow()
         {
             InitializeComponent();
+            manager.MainFrame = MainFrame;
         }
 
       
@@ -31,7 +32,17 @@ namespace popov_dengibystro
 
         private void btn_click(object sender, RoutedEventArgs e)
         {
+            MainFrame.Navigate(new otrasl());
+        }
 
+        private void btn_click2(object sender, RoutedEventArgs e)
+        {
+            MainFrame.Navigate(new siz());
+        }
+
+        private void btn_click3(object sender, RoutedEventArgs e)
+        {
+            MainFrame.Navigate(new qwer());
         }
     }
 }
